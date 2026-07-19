@@ -1,0 +1,9 @@
+
+
+Email is one of the most widely used communication methods in today's world. People use email for personal communication, business activities, educational purposes, and online services. As the number of email users has increased, the amount of unwanted emails, known as spam, has also grown. Spam emails often contain advertisements, fake offers, phishing links, or malicious content that can waste users' time and sometimes lead to security risks.
+
+Manually checking every email is not practical, especially when a large number of emails are received every day. Therefore, an automatic spam detection system is required to identify unwanted emails and separate them from genuine emails. Machine Learning provides an effective solution by learning patterns from previous email data and predicting whether a new email is spam or ham (legitimate email).
+
+In this project, an Email Spam Detection system is developed using the TF-IDF feature extraction technique and the Multinomial Naive Bayes algorithm. The model is trained using a labeled email dataset and tested to evaluate its performance. The system helps classify incoming emails accurately and reduces the effort required for manual filtering.
+
+This report explains the complete development process of the project, including data preprocessing, feature extraction, model training, testing, and performance evaluation
